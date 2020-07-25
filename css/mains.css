@@ -1,0 +1,12 @@
+body{ position: absolute; width: 99%; height: 98%; background: #F4F1F1; }
+
+img{ position: absolute; width: 270px; height: 62px; top: 35%; left: 40%; }
+
+.form_control{ position: absolute; top: 50%; left: 33%; width: 446px; height: 38px; background: #FFFFFF; border: 1px solid #C4C4C4;
+    box-sizing: border-box; border-radius: 3px; }
+button{ position: absolute; width: 103px; height: 36px; top: 60%; left : 47%;  background: #9B9B9E; border: 1px solid #007BFF;
+    box-sizing: border-box; border-radius: 6px; font-family: Roboto; font-style: normal; font-weight: 500; font-size: 18px; line-height: 18px; color: #FFFFFF; }
+input{ position: absolute; width: 114px; height: 18px; color: rgb(107, 107, 107); font-family: Roboto; font-style: normal; font-weight: normal;
+    font-size: 18px; line-height: 18px; margin-left: 1rem; }
+
+footer{ position: absolute; left: 44%;  bottom:10%; font-family: Roboto; font-style: normal; font-weight: normal; font-size: 16px; line-height: 14px; color: #6C757D; }
